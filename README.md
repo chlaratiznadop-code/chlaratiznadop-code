@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hola 👋
 
-<!--
-**chlaratiznadop-code/chlaratiznadop-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante y estoy aprendiendo programación.
 
-Here are some ideas to get you started:
+## 🚀 Tecnologías
+- Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Actualmente
+- Aprendiendo Git y GitHub
+- Creando proyectos personales
+- Aprendiendo a crear paginas web
+
+## 📫 Contacto
+- GitHub: charlatiznadop-code
