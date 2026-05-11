@@ -4,6 +4,7 @@ Soy estudiante y estoy aprendiendo programación.
 
 ## 🚀 Tecnologías
 - Python
+- 
 
 ## 📌 Actualmente
 - Aprendiendo Git y GitHub
